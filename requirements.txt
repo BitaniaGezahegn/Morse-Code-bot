@@ -1,0 +1,8 @@
+english_words==2.0.1
+filestack_python==3.5.0
+keyboard==0.13.5
+langdetect==1.0.9
+PyAutoGUI==0.9.54
+pynput==1.7.6
+python-telegram-bot==20.8
+translate==3.6.1
